@@ -1,9 +1,6 @@
-
-회귀 분석과 신경망 모델을 활용한 전력 사용량 예측 : K-Fold Cross-Validation을 통한 모델 성능 향상
-
 # DNN 딥러닝 회귀분석 프로젝트
 
-이 프로젝트는 PyTorch를 사용하여 전력 사용량 예측을 위한 딥러닝 회귀 분석을 수행합니다. <br>
+이 프로젝트는 PyTorch를 사용하여 전력 사용량 예측을 위한 DNN 회귀 분석을 수행합니다. <br>
 ## 🗂️ 0. 프로젝트 흐름도
 다음은 이 프로젝트의 전반적인 흐름도입니다.
 ![image](https://github.com/user-attachments/assets/43958a0b-8708-47c8-91f1-304b8a4ae3e4)
